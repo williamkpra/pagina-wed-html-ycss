@@ -21,14 +21,14 @@ body {
 
 .agrupar {
     width: 960px;
-    border: 1px solid black;
+    border: 1px solid rgb(40, 23, 99);
     margin: 15px auto;
     padding: 10px;
     background: white;
 }
 .header {
     background: 	#F0F8FF;
-    border: 1px solid blue;
+    border: 1px solid rgb(98, 98, 194);
     padding: 20px;
 }
 
@@ -39,7 +39,7 @@ body {
 
 .menu { 
     text-align: left;
-    background: #00FFFF;
+    background: #5b4485;
     padding: 5px 15px;
 }
 
